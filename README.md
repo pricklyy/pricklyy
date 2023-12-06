@@ -25,7 +25,7 @@
     <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
   </a>
   
-  <a href="ngotanh2210@gmail.com" alt="Email">
+  <a href="" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
 </p>
