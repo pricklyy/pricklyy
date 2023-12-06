@@ -19,17 +19,17 @@
   <a href="">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
-  <a href="" alt="Facebook">
+  <a href="https://www.facebook.com/profile.php?id=100065105631053" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
-  <a href="" alt="Github">
+  <a href="https://github.com/pricklyy" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
   <a href="" alt="Youtube channel" target="_blank" >
     <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
   </a>
   
-  <a href="" alt="Email">
+  <a href="ngotanh2210@gmail.com" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
 </p>
