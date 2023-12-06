@@ -10,7 +10,7 @@
 -  🌱 I’m currently learning **Javascript, React Native,Reactjs**
 
 
-## 📫 How to reach me 📫<p>ngotanh2210@gmail.com</p>
+## 📫 How to reach me 📫ngotanh2210@gmail.com
 <p align="center">
   <a href="">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
