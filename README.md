@@ -7,7 +7,7 @@
 
 - 🔭 My personal project [ MangaApp](https://github.com/pricklyy/MangaApp)
   
--  🌱 I’m currently learning **Javascript, React Native,Reactjs**
+-  🌱 I’m currently learning **React Native,Reactjs**
 
 
  <h2 align="center">📫 How to reach me : ngotanh2210@gmail.com 📫</h2>
