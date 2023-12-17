@@ -6,6 +6,7 @@
 </h1>
 
 - 🔭 My personal project [ MangaApp](https://github.com/pricklyy/MangaApp)
+- 🔭 My personal project [ CoffeeProject](https://github.com/pricklyy/CoffeeProject.git)
   
 -  🌱 I’m currently learning **React Native,Reactjs**
 
