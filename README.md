@@ -9,7 +9,7 @@
 - 🔭 My personal project [ CoffeeProject](https://github.com/pricklyy/CoffeeProject.git)
 - - 🔭 My personal project [ MovieProject](https://github.com/pricklyy/MovieProject.git)
   
--  🌱 I’m currently learning **ReactJS**
+-  🌱 I’m currently learning 
 
 
  <h2 align="center">📫 How to reach me : ngotanh2210@gmail.com 📫</h2>
